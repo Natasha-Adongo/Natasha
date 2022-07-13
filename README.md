@@ -17,3 +17,4 @@ Forking is a means that allows you to make changes to the repository that you ma
 A fork makes your own copy of a repo in remote location. This is different from clonning that makes a local copy of your repo not your own copy.
 
 *A pull request is a request to merge one or more commits into a different branch .A commit is a discrete change to one or more files*
+> Here's a link to my first fork https://github.com/Natasha-Adongo/MyFirstFork/compare/Natasha-Adongo-patch-1
