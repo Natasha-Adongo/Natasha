@@ -56,6 +56,7 @@ Some of the activites  that I will do to enable me accomplish this milestone;-
  _Below is my daily journal during my internship_
  
  **12th of July**
+ 
  On the first day we got an introduction on github and linux to some extent.
  
  # GITHUB
