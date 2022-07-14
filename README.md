@@ -67,7 +67,7 @@ Some of the activites  that I will do to enable me accomplish this milestone;-
 
 ## Forking 
 Forking is a means that allows you to make changes to the repository that you manage.It lets you make changes without affecting the original work
->Updates can be fetched or submitted to the original repo with a pull request this allows your changes to be actualized to the original repo.
+>Updates can be fetched or submitted to the orF1iginal repo with a pull request this allows your changes to be actualized to the original repo.
 A fork makes your own copy of a repo in remote location. This is different from clonning that makes a local copy of your repo not your own copy.
 
 *A pull request is a request to merge one or more commits into a different branch .A commit is a discrete change to one or more files*
@@ -77,5 +77,28 @@ A fork makes your own copy of a repo in remote location. This is different from 
 **13th July**
 
 We explored what bioinformatics means to each of us at individual level.
-From this discussion I answered why chose bioinformatics, my short term goals and long term goals. We did this to get a sense of what we expect from the internship.
+From this discussion I answered why chose bioinformatics, my short term goals and long term goals. We did this to get a sense of what we expect from the internship.  
 
+
+**14th July**
+# Open science and Data Management in Bioinformatics #
+**Open Science**
+Practice of scinec that others can colaborate and contribute to.
+This is for reuse, redistribution and reproduction.
+Open access is an aspect of open science.
+
+*Jornals with open access and open reviews* 
+
+ - F1000 research
+ 
+ -Elife
+  
+ - AAS open access journal
+ 
+ *Open Science tools in Bioinformatics*
+ 
+ - Git and Github
+ - Rmarkdown
+ - Jupyter notebooks
+ - Zenodo
+ 
