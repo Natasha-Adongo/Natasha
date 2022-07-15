@@ -79,3 +79,70 @@ A fork makes your own copy of a repo in remote location. This is different from 
 We explored what bioinformatics means to each of us at individual level.
 From this discussion I answered why chose bioinformatics, my short term goals and long term goals. We did this to get a sense of what we expect from the internship.
 
+**14th July**
+# Open science and Data Management in Bioinformatics #
+**Open Science**
+Practice of science that others can colaborate and contribute to.
+This is for reuse, redistribution and reproduction.
+Open access is an aspect of open science.
+
+*Jornals with open access and open reviews* 
+
+ - F1000 research
+ 
+ - Elife
+  
+ - AAS open access journal
+ 
+ *Open Science tools*
+ 
+ Open science tools are tools that can be used in building and delivering open science
+ - Git and Github
+ - Rmarkdown
+ - Jupyter notebooks
+ - Zenodo
+
+*Data repositories* these are used for storing data and also  allow open access
+- Zendo
+- Figshare  They are mostly linked to open research
+- Dryad
+- Dataverse
+
+
+*Data management plan*
+
+This gives a decription on the data that will be accessible to everyone 
+
+- Type of data
+- Standards - formats and metadata
+- Access policies 
+- Provisions for archiving and preservation
+
+*FAIR AND CARE data principles*
+
+
+**Organising your sequencing Project**
+- Your data has to be tidy 
+- Data storage - HDDS, Servers, Cloud, OSF
+
+
+## Open Science tools in Bioinformatics ##
+* Quality project this is a simple tools for wet-lab scientist 
+* Common workflow language
+* nextflow
+* Docker
+* Singularity 
+* Synapse - R, Python, Bash and Linux
+
+# Below is a link on the open science taxonomies  ##
+
+https://www.fosteropenscience.eu/themes/fosterstrap/images/taxonomies/os_taxonomy.png
+
+** aspects of open data you need to understand **
+### Gold  route ###
+
+Open access is delivered by publishing an article in a journal. The journal maybe pure open access or hybrid open access(this means it is subscription based
+
+#### Green route ####
+
+The green route open access is delivered by self-archiving(depositing an output) into a repository, these can be either institutional or subject repos
