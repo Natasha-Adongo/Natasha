@@ -18,7 +18,7 @@ I want to be able to pursue immunoinformatics and do research on drug prediction
  *WHY BIOINFORMATICS*
  
  Because bioinformatics allows me to answer foundational questions in biology. I would like to answer why to most research questions and to understand pharmocogenomics in a much broader perspective. This i can accomplish by combining genetic data and immunological data and tailor them to understand any relationship that might  be as result of the other.Bioinformatics offers me an interdisciplinary approach to all things molecular.
-I want to be a wholesome scientist in that I can actually do the lab work but most importantly test my hypothesis in-silico. That before I do PCR in the lab i can actually design and optmize my primers in-silico. The options of bioinformatics are limtless this why I chose bioinformatics because i can solve problems that haven't been considered in the wet-lab. More to this I think partly because bioinformatics can be challenging in an interesting way.
+I want to be a wholesome scientist in that I can actually do the lab work but most importantly test my hypothesis in-silico. That before I do PCR in the lab i can actually design and optmize my primers in-silico. The options of bioinformatics are limtless this why I chose bioinformatics because i can solve problems that haven't been considered in the wet-lab. More to this I think partly because bioinformatics is not monotonous you get innovative ways to solve different biological problems.
 
 
 *SHORT TERM VISION or GOAL*
@@ -156,7 +156,7 @@ The green route open access is delivered by self-archiving(depositing an output)
 
  1. Chromosome location - 12
  2. Exon count- 7
- 3. Genes in the vicinity of kras- *ETFRF1
+ 3. Genes in the vicinity of kras-  *ETFRF1
  
                                    *DNAI7
                                    
@@ -168,7 +168,7 @@ The green route open access is delivered by self-archiving(depositing an output)
                                   *enables GTPase activity 
                                   
                                   *enables protein complex binding
- 5. Biological processes-*fc-epsilon receptor signaling pathway
+ 5. Biological processes- *fc-epsilon receptor signaling pathway
  
                          *GTP catabolic process
                          
