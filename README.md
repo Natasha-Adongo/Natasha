@@ -157,31 +157,52 @@ The green route open access is delivered by self-archiving(depositing an output)
  1. Chromosome location - 12
  2. Exon count- 7
  3. Genes in the vicinity of kras- *ETFRF1
+ 
                                    *DNAI7
+                                   
                                    *LOC111501779
  4. Molecular functions include- *enables G protein activity
+
                                   *enables GTP binding
+                                  
                                   *enables GTPase activity 
+                                  
                                   *enables protein complex binding
  5. Biological processes-*fc-epsilon receptor signaling pathway
+ 
                          *GTP catabolic process
+                         
                          *MAPK cascade
+                         
                          *Ras potein signal transdaction
  6. Positions of the protein responsible for GTP binding- 10-18
+ 
                                                          - 29-35
+                                                         
                                                          - 32-40
+                                                         
                                                          - 59-60
+                                                         
                                                          - 116-119
+                                                         
                                                          - 166-185
 7. Variants of the enzyme involved in gastric cancer and other human diseases -AML
+
                                                                               -JMML
+                                                                              
                                                                               -NS3
+                                                                              
                                                                               -GASC
+                                                                              
                                                                               -CFC2
 8. Where in the structure are the mutations located-*IDENTIFIER     *POSITIONS      *CHAIN
+                                                     
                                                      -4DSO           2-164           A
+                                                     
                                                      -4EPR           1-164           A
+                                                     
                                                      -4EPV           1-164           A
+                                                     
                                                      -4EPT           1-164           A
                                                      
 9. What is the species distribution - 1946 species ,116397 sequences
