@@ -6,7 +6,7 @@
 From this my mission is to be at the forefront of drug prediction, drug discovery and having a full grasp on the relationship between the effects of drugs on genetic expression through computational tools.
  
  **VISION**
-*My vision is to combine computational skills and biological knowledge for the purpose of experimental immunology.That at the end of this internship I will have the right skill set to come up with new hypothesis related to immune responses and drug discovery and construct different algorithms for the specific hypotheses.From this be able to analyze data generated from the hypothesis and make sense of their implication.
+*My vision is to combine computational skills and biological knowledge for the purpose of experimental immunology.That I will have the right skill set to come up with new hypothesis related to immune responses and drug discovery and construct different algorithms for the specific hypotheses.From this be able to analyze data generated from the hypothesis and make sense of their implication.
 I want to be able to pursue immunoinformatics and do research on drug prediction*
  
  **WHY BIOINFORMATICS**
