@@ -1,5 +1,5 @@
 # Natasha
-*Hello my name is Vanessa Natasha
+*Hello my name is Vanessa Natasha*
 
 **MISSION**
 *I am more interested as to why things are the way they are, for example why did this genetic code express something different from what it normally codes for or why is stochasticity used to elaborate cancer or apart from changes in the genetic drift of the microorganism what else could lead to the organism being resistant to the said antibiotics.
